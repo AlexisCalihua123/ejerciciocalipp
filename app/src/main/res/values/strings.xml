@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EJERCICIOCALIHUA</string>
+    <string name="titulo">PROGRAMANDO ADROID</string>
+    <string name="nombre">NOMBRE</string>
+    <string name="edad"> EDAD </string>
+    <string name="telefono"> TELEFONO </string>
+    <string name="correo"> INGRESA TU CORREO  </string>
+</resources>
